@@ -1,7 +1,9 @@
 ![hacker](https://github.com/ethanarndt7/ethanarndt7/blob/main/hacker.gif)
+
 # Hi, I'm Ethan👋
 
 I am a **Cyber Security** student and a **Security Consultant** 
+
 
 
 <!--
