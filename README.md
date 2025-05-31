@@ -1,6 +1,6 @@
 # Hi, I'm Ethan👋
 
-## I am a cyber security student at Penn State University
+I am a cyber security student at Penn State University
 
 
 <!--
