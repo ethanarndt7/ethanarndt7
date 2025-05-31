@@ -2,7 +2,7 @@
 
 # Hi, I'm Ethan👋
 
-I am a **Cyber Security** student and a **Security Consultant** 
+I am a **Cyber Security Student** and a **Security Consultant** 
 
 
 
