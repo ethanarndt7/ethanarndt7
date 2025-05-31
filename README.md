@@ -1,4 +1,4 @@
-(![pixels-neon](https://github.com/user-attachments/assets/0f6d9d7b-baa5-4f40-a3f3-9f06ecc55458))
+![](pixels-neon.gif)
 # Hi, I'm Ethan👋
 I am a cyber security student at Penn State University
 
